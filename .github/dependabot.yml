@@ -1,6 +1,6 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
-    directory: "/" 
+    directory: "/"  # this means root folder
     schedule:
-      interval: "daily"
+      interval: "daily"  # or "weekly" if you want less frequent checks
