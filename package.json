@@ -17,6 +17,9 @@
     "url": "https://github.com/theangryybeast/my-blog-practice/issues"
   },
   "homepage": "https://github.com/theangryybeast/my-blog-practice#readme",
+"dependencies": {
+  "lodash": "4.17.15"
+},
   "devDependencies": {
     "mocha": "^11.4.0"
   }
